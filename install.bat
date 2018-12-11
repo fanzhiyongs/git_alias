@@ -1,0 +1,1 @@
+xcopy /Y %~dp0command\windows "C:\Program Files\Git\cmd"
